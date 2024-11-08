@@ -53,11 +53,8 @@ $(document).ready(function () {
 
   var typed = new Typed(".typing-2", {
     strings: [
-      "Fullstack Developer",
-      "Software Developer",
-      "Python Developer",
-      "Founder",
-      "Author"
+      "Chairman",
+      "VND Startup Comapany"
     ],
     typeSpeed: 100,
     backSpeed: 60,
