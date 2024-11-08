@@ -40,11 +40,8 @@ $(document).ready(function () {
 
   var typed = new Typed(".typing", {
     strings: [
-      "Fullstack Developer",
-      "Software Developer",
-      "Web Hosting",
       "Chairman",
-      "VND Company"
+      "VND Startup Company"
     ],
     typeSpeed: 100,
     backSpeed: 60,
@@ -53,8 +50,9 @@ $(document).ready(function () {
 
   var typed = new Typed(".typing-2", {
     strings: [
-      "Chairman",
-      "VND Startup Comapany"
+      "Full Stack Developer",
+      "Software Developer",
+      "Web Hosting"
     ],
     typeSpeed: 100,
     backSpeed: 60,
