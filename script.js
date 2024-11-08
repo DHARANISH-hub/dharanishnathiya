@@ -42,7 +42,7 @@ $(document).ready(function () {
     strings: [
       "Fullstack Developer",
       "Software Developer",
-      "Python Developer",
+      "Web Hosting",
       "Chairman",
       "VND Company"
     ],
