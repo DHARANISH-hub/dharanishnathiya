@@ -43,8 +43,8 @@ $(document).ready(function () {
       "Fullstack Developer",
       "Software Developer",
       "Python Developer",
-      "Founder",
-      "Author"
+      "Chairman",
+      "VND Company"
     ],
     typeSpeed: 100,
     backSpeed: 60,
