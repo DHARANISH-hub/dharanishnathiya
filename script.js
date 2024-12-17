@@ -40,7 +40,7 @@ $(document).ready(function () {
 
   var typed = new Typed(".typing", {
     strings: [
-      "Chairman",
+      "New Beginning",
       "VND Startup Company"
     ],
     typeSpeed: 100,
