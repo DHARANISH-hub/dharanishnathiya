@@ -41,7 +41,7 @@ $(document).ready(function () {
   var typed = new Typed(".typing", {
     strings: [
       "New Beginning",
-      "VND Startup Company"
+      "VND Web Company"
     ],
     typeSpeed: 100,
     backSpeed: 60,
